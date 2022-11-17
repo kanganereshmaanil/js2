@@ -1,0 +1,24 @@
+h1{
+    background-color: palevioletred;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+    color: green;
+}
+body{
+    background-color: aquamarine;
+}
+pre{
+    font-size: 15px;
+    color: purple;
+}
+h3{
+    font-size: 30px;
+    text-align: center;
+    color: blue;
+    background-color: palevioletred;
+   
+}
